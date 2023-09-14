@@ -4,3 +4,9 @@
     margin: 15px;
     border-radius: 15px;
 }
+.btn-container{
+    background-color: red;
+    color: white;
+    margin-right: 5px;
+ 
+}
